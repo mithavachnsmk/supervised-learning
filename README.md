@@ -1,0 +1,2 @@
+# supervised-learning
+This Project involved using classification algorithms to predict the income level of the customers based on attributes like 'sex', 'marital-status', 'age', 'occupation' etc. The classification algorithms that were used are Naive Bayes, Logistic Regression, KNN, and Decision Tree. And finally, a comparison of accuracy across these models was done to finalize the model for prediction.
